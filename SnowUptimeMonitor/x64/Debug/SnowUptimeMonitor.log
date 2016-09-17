@@ -1,0 +1,5 @@
+﻿  snowuptimemonitor.cpp
+c:\users\justi\desktop\snowuptimemonitorv1\snowuptimemonitor\snowuptimemonitor.h(205): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\justi\desktop\snowuptimemonitorv1\snowuptimemonitor\snowuptimemonitor.h(236): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  SnowUptimeMonitor.vcxproj -> C:\Users\justi\Desktop\SnowUptimeMonitorV1\x64\Debug\SnowUptimeMonitor.exe
+  SnowUptimeMonitor.vcxproj -> C:\Users\justi\Desktop\SnowUptimeMonitorV1\x64\Debug\SnowUptimeMonitor.pdb (Full PDB)

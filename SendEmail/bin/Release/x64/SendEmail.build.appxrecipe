@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SNOW-DIZZLE</Machine>
+    <WindowsUser>justi</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>5ce72567-ad97-4963-a04d-5b1ace680971</PackageIdentityName>
+    <PackageIdentityPublisher>CN=justi</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\SendEmail\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\SendEmail\bin\Release\x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\Python35.dll">
+      <PackagePath>Python35.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\pyuwpbackgroundservice.dll">
+      <PackagePath>pyuwpbackgroundservice.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\pyexpat.pyd">
+      <PackagePath>PythonHome\DLLs\pyexpat.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\select.pyd">
+      <PackagePath>PythonHome\DLLs\select.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\unicodedata.pyd">
+      <PackagePath>PythonHome\DLLs\unicodedata.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_app_service.pyd">
+      <PackagePath>PythonHome\DLLs\_app_service.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_bz2.pyd">
+      <PackagePath>PythonHome\DLLs\_bz2.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_ctypes.pyd">
+      <PackagePath>PythonHome\DLLs\_ctypes.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_elementtree.pyd">
+      <PackagePath>PythonHome\DLLs\_elementtree.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_ptvsdhelper.pyd">
+      <PackagePath>PythonHome\DLLs\_ptvsdhelper.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_socket.pyd">
+      <PackagePath>PythonHome\DLLs\_socket.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_ssl.pyd">
+      <PackagePath>PythonHome\DLLs\_ssl.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\Redist\Retail\x64\PythonHome\DLLs\_winrt.pyd">
+      <PackagePath>PythonHome\DLLs\_winrt.pyd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\Logo.scale-100.png">
+      <PackagePath>Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\SmallLogo.scale-100.png">
+      <PackagePath>SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\SplashScreen.scale-100.png">
+      <PackagePath>SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\StoreLogo.scale-100.png">
+      <PackagePath>StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\WideLogo.scale-100.png">
+      <PackagePath>WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\PythonHome\lib.zip">
+      <PackagePath>PythonHome\lib.zip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v10.0\ExtensionSDKs\Python UWP\3.5\References\CommonConfiguration\Neutral\PythonHome\WinRTExtension.zip">
+      <PackagePath>PythonHome\WinRTExtension.zip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\SendEmail\bin\Release\x64\startupinfo.json">
+      <PackagePath>startupinfo.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\SendEmail\StartupTask.py">
+      <PackagePath>StartupTask.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\attach_server.py">
+      <PackagePath>ptvsd\attach_server.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\visualstudio_py_debugger.py">
+      <PackagePath>ptvsd\visualstudio_py_debugger.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\visualstudio_py_repl.py">
+      <PackagePath>ptvsd\visualstudio_py_repl.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\visualstudio_py_util.py">
+      <PackagePath>ptvsd\visualstudio_py_util.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\__init__.py">
+      <PackagePath>ptvsd\__init__.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ptvsd\__main__.py">
+      <PackagePath>ptvsd\__main__.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\visualstudio_py_debugger.py">
+      <PackagePath>visualstudio_py_debugger.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\visualstudio_py_launcher.py">
+      <PackagePath>visualstudio_py_launcher.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\visualstudio_py_repl.py">
+      <PackagePath>visualstudio_py_repl.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\visualstudio_py_testlauncher.py">
+      <PackagePath>visualstudio_py_testlauncher.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\visualstudio_py_util.py">
+      <PackagePath>visualstudio_py_util.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio - UWP\2.2\visualstudio_py_remote_launcher.py">
+      <PackagePath>visualstudio_py_remote_launcher.py</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\SendEmail\bin\Release\x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

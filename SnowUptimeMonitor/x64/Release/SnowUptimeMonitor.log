@@ -1,0 +1,35 @@
+﻿  pingsnow.cpp
+pingsnow.cpp(23): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+pingsnow.cpp(36): warning C4267: 'argument': conversion from 'size_t' to 'WORD', possible loss of data
+pingsnow.cpp(32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+pingsnow.cpp(42): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PVOID'
+  sendemail.cpp
+sendemail.cpp(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(132): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+sendemail.cpp(62): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+sendemail.cpp(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+sendemail.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+sendemail.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+sendemail.cpp(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+sendemail.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+sendemail.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  smsg.cpp
+  snowuptimemonitor.cpp
+c:\users\justi\desktop\snowuptimemonitorvgithub\snowuptimemonitor\snowuptimemonitor.h(212): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\justi\desktop\snowuptimemonitorvgithub\snowuptimemonitor\snowuptimemonitor.h(249): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  SnowUptimeMonitor.vcxproj -> C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\x64\Release\SnowUptimeMonitor.exe
+  SnowUptimeMonitor.vcxproj -> C:\Users\justi\Desktop\SnowUptimeMonitorVGithub\x64\Release\SnowUptimeMonitor.pdb (Full PDB)

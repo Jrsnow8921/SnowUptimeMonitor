@@ -1,0 +1,5 @@
+A text file is born!
+You can use WriteLine...or just Write
+and do formatted output too.
+You can also send non-text objects:
+9/16/2016 10:01:51 PM
